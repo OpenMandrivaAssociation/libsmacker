@@ -5,7 +5,7 @@
 Summary:	Library which can be used for decoding Smacker Video files
 Name:		libsmacker
 Version:	1.1
-Release:	1
+Release:	2
 License:	LGPLv2+
 Group:		System/Libraries
 Url:		http://libsmacker.sourceforge.net
