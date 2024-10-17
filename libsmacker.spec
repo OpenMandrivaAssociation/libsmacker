@@ -8,7 +8,7 @@ Version:	1.1
 Release:	2
 License:	LGPLv2+
 Group:		System/Libraries
-Url:		http://libsmacker.sourceforge.net
+Url:		https://libsmacker.sourceforge.net
 Source0:	http://sourceforge.net/projects/libsmacker/files/libsmacker-%{version}/libsmacker-%{version}r34.tar.gz
 
 %description
