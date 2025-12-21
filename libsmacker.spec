@@ -11,6 +11,11 @@ Group:		System/Libraries
 Url:		https://libsmacker.sourceforge.net
 Source0:	http://sourceforge.net/projects/libsmacker/files/libsmacker-%{version}/libsmacker-%{version}r34.tar.gz
 
+BuildRequires:	autoconf
+BuildRequires:	automake
+BuildRequires:	libtool-base
+BuildRequires:	slibtool
+BuildRequires:	make
 %description
 libsmacker is a cross-platform C library which can be used for decoding Smacker Video files produced by RAD Game Tools.
 
